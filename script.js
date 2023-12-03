@@ -96,6 +96,7 @@ btnHold.addEventListener('click', function () {
 
 btnNew.addEventListener('click', init);
 
+console.log('Hello Git');
 ///CHAT GPT<>>>>>>>>>><<<<<<<<<<<<<>>>>>>>>>>
 
 //Selecting elements
