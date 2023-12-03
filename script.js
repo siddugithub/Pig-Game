@@ -95,6 +95,7 @@ btnHold.addEventListener('click', function () {
 });
 
 btnNew.addEventListener('click', init);
+console.log('Second Changes');
 
 ///CHAT GPT<>>>>>>>>>><<<<<<<<<<<<<>>>>>>>>>>
 
